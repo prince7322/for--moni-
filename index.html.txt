@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Until I Found You</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div id="loading">
+    <h1>For Moni ❤️</h1>
+    <p>Loading memories...</p>
+</div>
+
+<audio id="bgMusic" autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<div class="hero">
+
+<h1>Moni</h1>
+
+<h2>Until I Found You</h2>
+
+<p>
+Some people become memories.<br>
+Some become lessons.<br><br>
+
+But you became a part of my heart.<br><br>
+
+No matter where life takes us,<br>
+these moments will always stay beautiful.
+</p>
+
+<button onclick="document.getElementById('gallery').scrollIntoView({behavior:'smooth'})">
+View Memories ❤️
+</button>
+
+</div>
+
+<section id="gallery">
+
+<div class="gallery">
+
+<img src="1.jpeg">
+<img src="2.jpeg">
+<img src="3.jpeg">
+<img src="4.jpeg">
+<img src="5.jpeg">
+<img src="6.jpeg">
+<img src="7.jpeg">
+<img src="8.jpeg">
+<img src="9.jpeg">
+<img src="10.jpeg">
+<img src="11.jpeg">
+<img src="12.jpeg">
+<img src="13.jpeg">
+<img src="14.jpeg">
+<img src="15.jpeg">
+
+</div>
+
+</section>
+
+<div class="quote">
+
+<h2>"Some stories never really end..."</h2>
+
+<p>
+Thank you for every smile,<br>
+every memory,<br>
+every moment.
+</p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

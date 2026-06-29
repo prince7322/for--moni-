@@ -1,84 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Until I Found You</title>
-
-<link rel="stylesheet" href="style.css">
-
-</head>
-
-<body>
-
-<div id="loading">
-    <h1>For Moni ❤️</h1>
-    <p>Loading memories...</p>
-</div>
-
-<audio id="bgMusic" autoplay loop>
-    <source src="music.mp3" type="audio/mpeg">
-</audio>
-
-<div class="hero">
-
-<h1>Moni</h1>
-
-<h2>Until I Found You</h2>
-
-<p>
-Some people become memories.<br>
-Some become lessons.<br><br>
-
-But you became a part of my heart.<br><br>
-
-No matter where life takes us,<br>
-these moments will always stay beautiful.
-</p>
-
-<button onclick="document.getElementById('gallery').scrollIntoView({behavior:'smooth'})">
-View Memories ❤️
-</button>
-
-</div>
-
-<section id="gallery">
-
-<div class="gallery">
-
-<img src="1.jpeg">
-<img src="2.jpeg">
-<img src="3.jpeg">
-<img src="4.jpeg">
-<img src="5.jpeg">
-<img src="6.jpeg">
-<img src="7.jpeg">
-<img src="8.jpeg">
-<img src="9.jpeg">
-<img src="10.jpeg">
-<img src="11.jpeg">
-<img src="12.jpeg">
-<img src="13.jpeg">
-<img src="14.jpeg">
-<img src="15.jpeg">
-
-</div>
-
-</section>
-
 <div class="quote">
 
-<h2>"Some stories never really end..."</h2>
+    <h2>💌 A Letter For You, Moni ❤️</h2>
 
-<p>
-Thank you for every smile,<br>
-every memory,<br>
-every moment.
-</p>
+    <p>
+        Happy Birthday, Moni! 🎂🤍
+        <br><br>
+
+        Aaj sirf tumhara birthday hi nahi, balki hamari dosti ka bhi ek saal poora ho gaya. 29 June ko jab hum pehli baar mile the, tab bilkul bhi nahi socha tha ki itne kam waqt mein tum meri life ka itna important hissa ban jaogi.
+        <br><br>
+
+        Is ek saal mein tum sirf meri dost nahi bani, balki meri comfort place ban gayi. Ek aisi insaan jiske saath main bina kisi hesitation ke har baat share kar sakta hoon. Khushi ho ya tension, bakwaas ho ya serious baatein, tumne hamesha meri baat suni aur samjhi. Shayad isi wajah se mujhe tum par itna trust hai.
+        <br><br>
+
+        Hamari endless gossip, hasi-mazaak aur woh chhoti-chhoti baatein... ye sab meri life ki bahut achhi memories hain. Thank you itni achhi dost banne ke liye aur hamesha saath dene ke liye.
+        <br><br>
+
+        Meri dil se dua hai ki tumhari har khwahish poori ho, tum hamesha khush raho, muskurati raho aur zindagi tumhe har woh khushi de jiski tum haqdaar ho. Bhagwan tumhe hamesha sehat, safalta aur sukoon de.
+        <br><br>
+
+        Bas ek baat hamesha yaad rakhna—chahe life kitni bhi busy ho jaye, meri taraf se tumhare liye respect, trust aur dua kabhi kam nahi hogi.
+        <br><br>
+
+        <strong>Happy Birthday once again, Bauaa..! ❤️🎉</strong>
+        <br><br>
+
+        Stay blessed, stay happy, and thank you for making this one year of friendship so special.
+        <br><br>
+
+        <strong>— Rohit ❤️</strong>
+    </p>
 
 </div>
-
-<script src="script.js"></script>
-
-</body>
-</html>
